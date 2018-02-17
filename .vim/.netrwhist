@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/nathanielfelsen/.oh-my-zsh'
+let g:netrw_dirhist_2='/Users/nathanielfelsen/work/EfffectiveDevOPS/code-snippets/newch07/app2/helloworld/node_modules'
+let g:netrw_dirhist_3='/private/tmp'
